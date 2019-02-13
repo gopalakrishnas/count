@@ -2,7 +2,7 @@
 
 void main()
 {
-int a[]={1,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1};
+int a[]={1,0,1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,1};//input string
 int level=0, falling_edge=0, rising_edge=0;
 char ar[10];
  ar[0]='L';
