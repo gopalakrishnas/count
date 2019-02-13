@@ -31,4 +31,5 @@ j++;
 
 }
 printf("\n\nlevel=%d, rising edge=%d, falling edge=%d\n\n", level, rising_edge,falling_edge);
+ //parity check
 }
